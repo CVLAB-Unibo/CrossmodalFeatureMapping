@@ -7,13 +7,13 @@ url: 'https://cvlab-unibo.github.io'
 baseurl:
 
 # Title of the Site
-title: Learning Depth Estimation for Transparent and Mirror Surfaces
+title: Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping
 # Description of the Site
-description: Presented at ICCV2023
+description: Accepted at CVPR2024
 # URL of Image of the Site
 site-image:
 # Keywords of the Site
-site-keywords: Deep Learning, Depth, Disparity, Segmentation, Monocular, Mono, Stereo, Transparent, Glass, Specular, Reflective, non-Lambertian
+site-keywords: Anomaly, Detection, Segmentation, Point Cloud, RGB, Images, Feature, Mapping, Multimodal
 # URL for the Image of custom Favicon
 favicon-url:
 
@@ -27,7 +27,7 @@ facebook_username:
 twitter_username:
 instagram_username:
 linkedin_username:
-github_username:  arcanoXIII/learning_depth_estimation_for_transparent_and_mirror_surfaces
+github_username:  arcanoXIII/CrossmodalFeatureMapping
 youtube_channel_id: 
 reddit_username:
 behance_username:
@@ -39,7 +39,7 @@ site_name: "https://www.vision.deis.unibo.it/"
 google-analytics:
 
 # Disqus
-disqus-shortname: Depth4ToM
+disqus-shortname: CFM4IAD
 
 # Name of the Author
 author-name: Alex Costanzino
